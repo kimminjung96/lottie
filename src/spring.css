@@ -1,0 +1,9 @@
+.section {
+  height: 200vh;
+}
+h1 {
+  padding-top: 50vh;
+  color: red;
+  text-align: center;
+  font-size: 2em;
+}
